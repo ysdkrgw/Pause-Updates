@@ -9,4 +9,3 @@ Windows Registry Editor Version 5.00
 "PauseUpdatesStartTime"="2023-02-18T12:53:30Z"
 "PauseUpdatesExpiryTime"="3000-12-30T12:53:30Z"
 "TrayIconVisibility"=dword:00000000
-
